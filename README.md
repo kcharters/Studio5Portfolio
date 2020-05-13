@@ -1,29 +1,13 @@
 # Project1Portfolio
-portfolio notes<br>
-https://docs.djangoproject.com/en/3.0/intro/tutorial01/<br>
-<br>
-set uo virtual environment
-- anaconda navigator
-- environments
-- create
-- python 3.7 if not avaliable install
-- click paly button 
-- open terminal
-- go to folder with project
- install djangoproject
-- in folde project 
--pip install django
-- check version python -m django --version
-- if not 3.0 
-- pip install --upgrade django==3.0.4
 
-setting up local phpmyadmin <br>
-run manage.py syncdb <br>
-pip install mysqlclient <br>
+## Sprint 1-2
+During these sprints I took on a task that seemed simple enough of adding co2 to the heatmap site. I struggled immensely in this as it was like being thrown in the deep end with so many new concepts and languages and frameworks to learn. 
+[add image of ticket]
+To begin with the documentation of the room-sensors app was difficult to start with as it assumed a lot of previous knowledge. But after asking some group memebers I learnt how to :
 
+- set up an environment with anaconda navigator 
+[show examples]
 
-include app to site <br>
-python manage.py makemigrations polls<br>
-you’re telling Django that you’ve made some changes to your models<br>
- (in this case, you’ve made new ones) <br>
-and that you’d like the changes to be stored as a migration.<br>
+- installing requirments 
+- react front end with node 
+
