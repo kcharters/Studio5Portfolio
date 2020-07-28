@@ -7,11 +7,11 @@ Grayson sent us all a link to a vue.js tutorial, as that is what the high school
 
 - put tutorial app in here 
 
-### week two
-- stand up 
-What went well:
+### Week two
+#### stand up 
+##### What went well:
 Most of us had looked at or done the Tutorial video. 
-What we are going to do:
+##### What we are going to do:
 I suggested we set up a git hub for not only my self and Rebecca towork on but for the team we will be helping. If they dont have git hub accounts that is perhaps something we could convince them to use so we can all collaborate together and see what they are working on and what issues they are having 
 
 - st hildas going there 
