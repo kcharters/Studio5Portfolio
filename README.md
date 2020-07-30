@@ -5,7 +5,8 @@ In the first week we were introduced to Studio 5 and what projects and areas we 
 The project that I am a part of is mentoring? one group of high school students on their web application (possibly mobile too?) with Rebecca. Erica and Charmaine will be a pair for another group.
 Grayson sent us all a link to a vue.js tutorial, as that is what the high school students will be coding in. It was a bit difficult to get vue to create an app, after trying multiple tutorial versions of @vue/cli and changing the PATH destination Rebecca suggested to use npx @vue/cli create app.
 
-- put tutorial app in here 
+![alt text](https://ibb.co/xq4KR2y)
+![alt text](https://ibb.co/Sf6CCGh)
 
 ### Week two
 #### Stand up 
