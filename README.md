@@ -1,4 +1,4 @@
-## Stduio 5 Portfolio
+## Studio 5 Portfolio
 
 ### Week One
 In the first week we were introduced to Studio 5 and what projects and areas we could choose from. After going through the withdrawal process of Project 1 last semeseter I chose mobile applications, with the possiblity of web applications coinciding with it. 
@@ -6,7 +6,7 @@ The project that I am a part of is mentoring? one group of high school students 
 Grayson sent us all a link to a vue.js tutorial, as that is what the high school students will be coding in. It was a bit difficult to get vue to create an app, after trying multiple tutorial versions of @vue/cli and changing the PATH destination Rebecca suggested to use npx @vue/cli create app.
 
 ![alt text](https://i.ibb.co/y4Njj7w/hot.png)
-[url=https://ibb.co/xq4KR2y][img]https://i.ibb.co/xq4KR2y/cold.png[/img][/url]
+![alt-text](https://i.ibb.co/zVkW0m1/cold.png)
 
 ### Week two
 #### Stand up 
