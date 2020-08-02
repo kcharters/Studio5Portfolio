@@ -5,9 +5,8 @@ In the first week we were introduced to Studio 5 and what projects and areas we 
 The project that I am a part of is mentoring? one group of high school students on their web application (possibly mobile too?) with Rebecca. Erica and Charmaine will be a pair for another group.
 Grayson sent us all a link to a vue.js tutorial, as that is what the high school students will be coding in. It was a bit difficult to get vue to create an app, after trying multiple tutorial versions of @vue/cli and changing the PATH destination Rebecca suggested to use npx @vue/cli create app.
 
-![alt text](https://ibb.co/MnjwS0L)
-![alt-text](https://ibb.co/NV5nYfK)
-
+![alt text] (https://i.ibb.co/HF6pgRq/cold.png)
+![alt-text] (https://i.ibb.co/b1ywm9n/hot.png)
 
 ### Week two
 #### Stand up 
@@ -26,3 +25,7 @@ We went to meet the St Hildas girls groups. The groups gave small presentations 
 - [Video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Reading](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - compose email and send it all to them 
+  - asking to create git hub accounts and send me their usernames
+  - tutorials of git 
+  - get them to upload their design as a git practice
+  - they can contact us with any questions 
