@@ -15,7 +15,7 @@ Had Finished the Vue tutorial
 ##### What we are going to do:
 I suggested we set up a git hub for not only my self and Rebecca towork on but for the team we will be helping. If they dont have git hub accounts that is perhaps something we could convince them to use so we can all collaborate together and see what they are working on and what issues they are having 
 
-### St Hildas Meeting
+#### St Hildas Meeting
 We went to meet the St Hildas girls groups. The groups gave small presentations of what their app design and what programs they'll be using. Rebecca and I will be helping (hopefully) the canteen app. I gave the girls my email address and i will get in touch with them about signing up for git hub, tutorial on using git hub and git bash, and once they get started on coding they can upload ther files. 
 
 #### Things to do 
