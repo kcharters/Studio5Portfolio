@@ -25,7 +25,4 @@ We went to meet the St Hildas girls groups. The groups gave small presentations 
 - [Video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Reading](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - compose email and send it all to them 
-  - asking to create git hub accounts and send me their usernames so i can add them to the repo
-  - tutorials of github and git bash
-  - get them to upload their design as a git practice
-  - they can contact us with any questions 
+ ![alt-text](https://i.ibb.co/SfKgPRn/Capture.png)
