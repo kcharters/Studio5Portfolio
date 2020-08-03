@@ -20,9 +20,11 @@ We went to meet the St Hildas girls groups. The groups gave small presentations 
 
 #### Things to do 
 - Reasearch Firebase
-
+- Air Table
 ##### Tutorials I found 
 - [Video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Reading](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-- compose email and send it all to them 
+### Week 3
+compose email and send it all to them 
  ![alt-text](https://i.ibb.co/SfKgPRn/Capture.png)
+ 
