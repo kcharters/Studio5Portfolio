@@ -27,4 +27,5 @@ We went to meet the St Hildas girls groups. The groups gave small presentations 
 ### Week 3
 compose email and send it all to them 
  ![alt-text](https://i.ibb.co/SfKgPRn/Capture.png)
- 
+ - miss communication via email, face to face is better thanks agile
+![alt-text](https://i.ibb.co/1dg2gqn/emails.png)
