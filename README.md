@@ -29,4 +29,8 @@ compose email and send it all to them
  ![alt-text](https://i.ibb.co/SfKgPRn/Capture.png)
  the girls got in contact with us and had some trouble with git. their was some miscommunication about meeting days, so taking advantage of their free time sooner we wanted to do a video call and work through git with them. 
  - miss communication via email, face to face is better thanks agile
-![alt-text](https://ibb.co/rcjyj6t)
+![alt-text](https://i.ibb.co/1dg2gqn/emails.png)
+#### video meeting.
+On thursday 6/8 we had a video meeting on cisco webex and managed to get the girls started with git and git bash, showing them how to clone the repo from the command line. Our time was cut short due to wifi issues on their end. how ever we were able to screen share and show them where the github wiki is which is where we put some step by step instructions for them. 
+- todo add images for them
+- make virtual machine of mac
