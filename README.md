@@ -27,6 +27,6 @@ We went to meet the St Hildas girls groups. The groups gave small presentations 
 ### Week 3
 compose email and send it all to them 
  ![alt-text](https://i.ibb.co/SfKgPRn/Capture.png)
- the girls got incontact with us and had some trouble with git. their was some miscommunication about meeting days, so taking advantage of their free time sooner we wanted to do a video call and work through git with them. 
+ the girls got in contact with us and had some trouble with git. their was some miscommunication about meeting days, so taking advantage of their free time sooner we wanted to do a video call and work through git with them. 
  - miss communication via email, face to face is better thanks agile
-![alt-text](https://i.ibb.co/1dg2gqn/emails.png)
+![alt-text](https://ibb.co/rcjyj6t)
