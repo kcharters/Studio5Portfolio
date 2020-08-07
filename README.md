@@ -25,7 +25,12 @@ We went to meet the St Hildas girls groups. The groups gave small presentations 
 - [Video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Reading](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 ### Week 3
+#### Stand up 
+##### What went well:
+Had the initial meeting with the St hildas Girls where they demonstrated their designs, and learnt about what software theyre going to use
+##### What we are going to do:
 compose email and send it all to them 
+
  ![alt-text](https://i.ibb.co/SfKgPRn/Capture.png)
  the girls got in contact with us and had some trouble with git. their was some miscommunication about meeting days, so taking advantage of their free time sooner we wanted to do a video call and work through git with them. 
  - miss communication via email, face to face is better 
@@ -38,4 +43,5 @@ Link to [wiki](https://github.com/kcharters89/Studio5-CanteenApp/wiki) that has 
 - get your vue hosted on firebase
 - try firebase authentication
 
+### Week 4
 
