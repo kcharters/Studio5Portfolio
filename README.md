@@ -1,4 +1,4 @@
-## Studio 5 Portfolio
+# Studio 5 Portfolio
 
 ### Week One
 In the first week we were introduced to Studio 5 and what projects and areas we could choose from. After going through the withdrawal process of Project 1 last semeseter I chose mobile applications, with the possiblity of web applications coinciding with it. 
@@ -7,7 +7,7 @@ Grayson sent us all a link to a vue.js tutorial, as that is what the high school
 
 ![alt text](https://i.ibb.co/HF6pgRq/cold.png)
 ![alt-text](https://i.ibb.co/b1ywm9n/hot.png)
-
+## Sprint 1
 ### Week two
 #### Stand up 
 ##### What went well:
@@ -52,7 +52,7 @@ Link to [wiki](https://github.com/kcharters89/Studio5-CanteenApp/wiki) that has 
 - learnt that IT people do assume when giving directions for , documentation needs to not make assumptions and step by step it. 
 - this will be helpful if i do the aged care volunteering 
 ##### week 4 is a bit of a write off due to covid lockdown changes
-
+## Sprint 2
 ### Week 5
 #### what went well? 
 Got fire base app hosted 
