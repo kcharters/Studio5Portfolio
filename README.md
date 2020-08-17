@@ -51,3 +51,4 @@ Link to [wiki](https://github.com/kcharters89/Studio5-CanteenApp/wiki) that has 
 - the wiki for git 
 - learnt that IT people do assume when giving directions for , documentation needs to not make assumptions and step by step it. 
 - this will be helpful if i do the aged care volunteering 
+##### week 4 is a bit of a write off due to covid lockdown changes
