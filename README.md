@@ -52,3 +52,17 @@ Link to [wiki](https://github.com/kcharters89/Studio5-CanteenApp/wiki) that has 
 - learnt that IT people do assume when giving directions for , documentation needs to not make assumptions and step by step it. 
 - this will be helpful if i do the aged care volunteering 
 ##### week 4 is a bit of a write off due to covid lockdown changes
+
+### Week 5
+#### what went well? 
+Got fire base app hosted 
+#### what didnt go well ?
+covid lockdown and outbreak messed up my week with anxiety
+#### obsticles?
+realise we may not have explained git so well
+
+#### things to do
+- user stories
+- make a video explaining and showing github/ git bash
+- fire base authentication
+- see where the girls are at in their coding 
