@@ -63,7 +63,7 @@ covid lockdown messed up my week with my anxiety
 realise we may not have explained git so well
 
 #### things to do
-User stories added to sprints for rebecca and myself, the whole concept of using user stories and kanban while doing mentoring has been confusing as we've been taught through the whole degree its for coding projects for clients. But knowing we can use these as a way to keep track of what we're doing and keeping us on track is a great new way to use these technoligies we've already used
+User stories added to sprints for rebecca and myself, the whole concept of using user stories and kanban while doing mentoring has been confusing as we've been taught through the whole degree its for coding projects for clients. But knowing we can use these as a way to keep track of what we're doing and keeping us on track is a great new way to use these technoligies we've already used.
 
 ![alt-text](https://i.ibb.co/Mh4fH8B/user-stories-on-kanban.png)
 
@@ -72,6 +72,6 @@ User stories added to sprints for rebecca and myself, the whole concept of using
 - fire base authentication
 
 Due to the covid lockdown level 2 our face to face meeting was cancelled and postpone to the follow monday where would have the equipment to video call them and see how the students are doing. Now that they are using git hub a bit more we have noticed their file structure and naming conventions are all over the place. We need to ask them how their structure looks on their own computers and potentially teach them how to use branching in git so we can see their code and make comments. 
- <image of commits and storage on git hub>
+
  ![alt-text](https://i.ibb.co/wMHS9L4/file-structure.png)
  ![alt-text](https://i.ibb.co/T4Hnx8q/version-control.png)
