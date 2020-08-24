@@ -56,9 +56,9 @@ Link to [wiki](https://github.com/kcharters89/Studio5-CanteenApp/wiki) that has 
 ## Sprint 2
 ### Week 5
 #### what went well? 
-Got fire base app hosted 
+Got fire base app hosted last week
 #### what didnt go well ?
-covid lockdown messed up my week with my anxiety
+covid lockdown messed up my week with my anxiety last week 
 #### obsticles?
 realise we may not have explained git so well
 
@@ -67,12 +67,12 @@ User stories added to sprints for rebecca and myself, the whole concept of using
 
 ![alt-text](https://i.ibb.co/Mh4fH8B/user-stories-on-kanban.png)
 
-- make a video explaining and showing github/ git bash
-
-- fire base authentication
-
 Due to the covid lockdown level 2 our face to face meeting was cancelled and postpone to the follow monday where would have the equipment to video call them and see how the students are doing. Now that they are using git hub a bit more we have noticed their file structure and naming conventions are all over the place. We need to ask them how their structure looks on their own computers and potentially teach them how to use branching in git so we can see their code and make comments. 
 
  ![alt-text](https://i.ibb.co/wMHS9L4/file-structure.png)
  ![alt-text](https://i.ibb.co/T4Hnx8q/version-control.png)
 ### Week 6
+#### things to do
+- do video tutorials now that macos vm is up and running
+- meeting with the girls. see where theyre at 
+- fire base authentication 
