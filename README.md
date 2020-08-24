@@ -75,3 +75,4 @@ Due to the covid lockdown level 2 our face to face meeting was cancelled and pos
 
  ![alt-text](https://i.ibb.co/wMHS9L4/file-structure.png)
  ![alt-text](https://i.ibb.co/T4Hnx8q/version-control.png)
+### Week 6
