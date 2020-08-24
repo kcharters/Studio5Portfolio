@@ -72,7 +72,16 @@ Due to the covid lockdown level 2 our face to face meeting was cancelled and pos
  ![alt-text](https://i.ibb.co/wMHS9L4/file-structure.png)
  ![alt-text](https://i.ibb.co/T4Hnx8q/version-control.png)
 ### Week 6
+#### MacOS virtual Machine
+I realise that this is not best practice to due apples licensing how ever because the students are high school students i wanted to make tutorial videos in an enviroment that they are familar with.
+These videos will only be avaliable to those involved with this project. 
+To create this virtual machine I had a spare Mac that I used to create a ISO file from the OS installer 
+I used this [Tutorial](https://www.soupbowl.io/2020/04/macos-in-virtualbox/).
+I went through many different tutorials bwfore this one to get a work Virtual Machine. 
+
+#### Video Meeting 
+We had a video meeting with the girls on monday, they were still having merge conflicts with git, and its quite hard to run someone through git merging when youre not face to face, especially with how the naming conventions have been made on the git hub repo. The reason they have done this is they create different zipped folders of versions to show their teacher they have version control so we will introduce them to branching.
+
 #### things to do
 - do video tutorials now that macos vm is up and running
-- meeting with the girls. see where theyre at 
 - fire base authentication 
