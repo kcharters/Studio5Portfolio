@@ -84,4 +84,9 @@ We had a video meeting with the girls on monday, they were still having merge co
 
 #### things to do
 - do video tutorials now that macos vm is up and running
+ - title each video with errors
 - fire base authentication 
+
+#### In person Meeting
+On thursday at 8.30 we had an inperson meeting with the students at st hildas college which helped to clear up some confusion on their skill level is, where they are at and what there ncea requirements are, and what they needed help with.
+I helped clear up some confusion on restful api, what api's are, how theyre used, and what a json file is and does.
