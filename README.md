@@ -90,3 +90,6 @@ We had a video meeting with the girls on monday, they were still having merge co
 #### In person Meeting
 On thursday at 8.30 we had an inperson meeting with the students at st hildas college which helped to clear up some confusion on their skill level is, where they are at and what there ncea requirements are, and what they needed help with.
 I helped clear up some confusion on restful api, what api's are, how theyre used, and what a json file is and does.
+We got some carification on what theyre using vue for, which is using it to pull data from firebase and then add that to air table.
+I will make those tutorial videos  and they mentioned having them titled as what errors they are would be helpful for them to find what theyre looking for. 
+We talked about branching but at this stage will let them use their zip files for now until they get the hang of git. 
