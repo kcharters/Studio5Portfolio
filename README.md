@@ -93,3 +93,8 @@ I helped clear up some confusion on restful api, what api's are, how theyre used
 We got some carification on what theyre using vue for, which is using it to pull data from firebase and then add that to air table.
 I will make those tutorial videos  and they mentioned having them titled as what errors they are would be helpful for them to find what theyre looking for. 
 We talked about branching but at this stage will let them use their zip files for now until they get the hang of git. 
+
+### Week 7
+#### things to do
+- finish tutorials 
+- get polipay stuff and do that
