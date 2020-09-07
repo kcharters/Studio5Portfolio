@@ -100,3 +100,8 @@ We talked about branching but at this stage will let them use their zip files fo
 - get polipay stuff and do that
 
 Got the firebase authentication tutorial app working. Rebecca took all the,hopefully, most recent files from the students repo and organized them into another repo with good file structure, The plan is to try and implement vue with the firebase authentication while i wait for the polipay information to help them implement that. 
+
+Started a tutorial that uses vuejs, firebase and stripe to see how it could all work together for the students 
+
+## Sprint 3
+### Week 8
