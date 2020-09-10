@@ -105,3 +105,7 @@ Started a tutorial that uses vuejs, firebase and stripe to see how it could all 
 
 ## Sprint 3
 ### Week 8
+- continue tutorial 
+- look at polipay with details that have been given.
+
+The girls have mock exams this week so that is their top priority. 
