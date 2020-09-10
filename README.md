@@ -109,3 +109,7 @@ Started a tutorial that uses vuejs, firebase and stripe to see how it could all 
 - look at polipay with details that have been given.
 
 The girls have mock exams this week so that is their top priority. 
+
+### Reflection
+As we continued through the weeks it became clear that the students were still having trouble with understanding git and git bash commands, each week we would try to explain or give step by step instructions to work through their errors. All of these errors are git merge errors which would be solved with branching, however due to time restraints on their end the students dont want to learn branching. 
+Learning that it is difficult to teach someone how to use a programme via chat or email, even when linking documentation or videos to help. It would be easier in person but this is a learning experience i will remember 
