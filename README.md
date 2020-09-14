@@ -115,3 +115,6 @@ As we continued through the weeks it became clear that the students were still h
 Learning that it is difficult to teach someone how to use a programme via chat or email, even when linking documentation or videos to help. It would be easier in person but this is a learning experience i will remember 
 After Talking with grayson we found some direction in just making the app that the students are making, we make it ourselves. I did feel like the last two weeks were stagnant in what we were contributing.
 We started a new repo and sprints for ourselves. 
+
+### week 9
+#### Sprint 1
