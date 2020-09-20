@@ -118,3 +118,7 @@ We started a new repo and sprints for ourselves.
 
 ### week 9
 #### Sprint 1
+![alt-text](https://i.ibb.co/5h3Hs4B/sprint.png)
+Starting our new first sprint we set up a kanban and our first 10 tickets for what we call the ecommerce application. I found this youtube channel with a playlist on making an ecommerce app with vuejs, firebase and stripe as a payment system which i passed onto Rebecca sor us both to follow. [Link here](https://www.youtube.com/watch?v=UrUuvNyK-Os&list=PLB4AdipoHpxYPjGo0n2m6tmCLud_iSEbv&ab_channel=CodeInspire).
+I created a login page and sign up page using this [Tutorial](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c) with firebase authentication.
+I also looked into polipay some more, reading through their documentation a bit more and realising you can access code snippets with postman. ![alt-text](https://i.ibb.co/DM4sDyB/polipay.png)
