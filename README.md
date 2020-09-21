@@ -122,3 +122,8 @@ We started a new repo and sprints for ourselves.
 Starting our new first sprint we set up a kanban and our first 10 tickets for what we call the ecommerce application. I found this youtube channel with a playlist on making an ecommerce app with vuejs, firebase and stripe as a payment system which i passed onto Rebecca sor us both to follow. [Link here](https://www.youtube.com/watch?v=UrUuvNyK-Os&list=PLB4AdipoHpxYPjGo0n2m6tmCLud_iSEbv&ab_channel=CodeInspire).
 I created a login page and sign up page using this [Tutorial](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c) with firebase authentication.
 I also looked into polipay some more, reading through their documentation a bit more and realising you can access code snippets with postman. ![alt-text](https://i.ibb.co/DM4sDyB/polipay.png)
+ - add modal to user stories and branch
+ ### Week 10
+ We met with the girls on 21/09 and went through git with them after they had made a new repository. I think this really helped them and we convinced them that branching would solve all their merge conflict errors that they were constantly getting.
+ I made this video to help them refresh their memory when cloning, branching and merging [Link to video on slack](https://canteenappworkspace.slack.com/files/U018CARLS9Y/F01B1306RC5/git_tutorial.mp4)
+ Our first sprint finished on the 24/09
