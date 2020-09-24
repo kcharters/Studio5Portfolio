@@ -127,3 +127,5 @@ I also looked into polipay some more, reading through their documentation a bit 
  We met with the girls on 21/09 and went through git with them after they had made a new repository. I think this really helped them and we convinced them that branching would solve all their merge conflict errors that they were constantly getting.
  I made this video to help them refresh their memory when cloning, branching and merging [Link to video on slack](https://canteenappworkspace.slack.com/files/U018CARLS9Y/F01B1306RC5/git_tutorial.mp4)
  Our first sprint finished on the 24/09
+
+I made the firebase auth with login modal and signup page, It was working on my branch but as soon as we merged it stopped so that is a bug i will work on next sprint. We finished out first sprint today with most of initial build issues completed. 
