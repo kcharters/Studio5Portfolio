@@ -129,3 +129,5 @@ I also looked into polipay some more, reading through their documentation a bit 
  Our first sprint finished on the 24/09
 
 I made the firebase auth with login modal and signup page, We finished out first sprint today with most of initial build issues completed. 
+### Sprint 2
+Sprint two started just befoure our and the students two week break. I kept in contact with tessa and we went over polipay during a video chat, but came across a problem with CORS. I now have that code working in pure javascript for her, and we will do some secuirty on monday the 12th of october.
