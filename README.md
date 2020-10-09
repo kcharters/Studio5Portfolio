@@ -131,3 +131,33 @@ I also looked into polipay some more, reading through their documentation a bit 
 I made the firebase auth with login modal and signup page, We finished out first sprint today with most of initial build issues completed. 
 ### Sprint 2
 Sprint two started just befoure our and the students two week break. I kept in contact with tessa and we went over polipay during a video chat, but came across a problem with CORS. I now have that code working in pure javascript for her, and we will do some secuirty on monday the 12th of october.
+using cors in pure javascript i had to find a proxy as it would only allow some times 
+```
+var settings = {
+    
+    'cache': false,
+    'dataType': "json",
+    "async": true,
+    "crossDomain": true,
+    "url": "https://cors-anywhere.herokuapp.com/https://randomuser.me/api/?results=10"+"",
+    "headers": {
+        "Content-Type": "application/json",
+        "Access-Control-Allow-Origin":'*'
+    },
+    "method": "GET",
+} 
+```
+this is my code i used for another project that also uses an api and i had cors problems with. as im not confident in javascript i did however find a way to import and sxport variables so we can the merchant code and authentication to a hidden file. 
+```
+You can export the variable from first file using export.
+//first.js
+const colorCode = {
+    black: "#000",
+    white: "#fff"
+};
+export { colorCode };
+Then, import the variable in second file using import.
+//second.js
+import { colorCode } from './first.js'
+``` 
+found on stack overflow
